@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/Extent jar 2.41.2.zip"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/JQuery 3.5.1 jar_files .zip"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/jquery-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium jar files/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/vanu/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
